@@ -19,4 +19,3 @@ Since it's based on the Wiktionary's API, it supports dozens of languages in a 2
 
 
 
-[You can check it out on Google Play.](https://play.google.com/store/apps/details?id=live.bar.dictionary.wiki.dictionarybar)
